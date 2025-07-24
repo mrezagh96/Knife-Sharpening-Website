@@ -1,0 +1,41 @@
+﻿// Views/Order/Place.cshtml (Order Page)
+//-----------------------------------------
+@{
+    ViewData["Title"] = "Place Order";
+}
+
+<div class="container mt-5">
+    <h2>Place Your Order</h2>
+    <div class="row mt-4">
+        <div class="col-md-6">
+            <label for="knifeCount">Number of Knives:</label>
+            <div class="input-group">
+                <button class="btn btn-outline-secondary" type="button" onclick="changeCount(-1)">-</button>
+                <input type="text" id="knifeCount" class="form-control text-center" value="1" readonly />
+                <button class="btn btn-outline-secondary" type="button" onclick="changeCount(1)">+</button>
+            </div>
+        </div>
+        <div class="col-md-6 d-flex align-items-end">
+            <h4 class="text-success">Total Price: $<span id="price">5</span></h4>
+        </div>
+    </div>
+    <button class="btn btn-success mt-4" onclick="submitOrder()">Make Order</button>
+</div>
+
+@section Scripts {
+    <script>
+        const unitPrice = 5;
+
+        function changeCount(val) {
+            const input = document.getElementById("knifeCount");
+            let count = parseInt(input.value);
+            count = Math.max(1, count + val);
+            input.value = count;
+            document.getElementById("price").innerText = count * unitPrice;
+        }
+
+        function submitOrder() {
+            alert("Your order has been submitted. Thank you!");
+        }
+    </script>
+}

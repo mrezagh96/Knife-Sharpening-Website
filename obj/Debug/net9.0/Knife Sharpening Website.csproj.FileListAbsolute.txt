@@ -1,0 +1,98 @@
+C:\Users\Lenovo\source\repos\Knife Sharpening Website\bin\Debug\net9.0\appsettings.Development.json
+C:\Users\Lenovo\source\repos\Knife Sharpening Website\bin\Debug\net9.0\appsettings.json
+C:\Users\Lenovo\source\repos\Knife Sharpening Website\bin\Debug\net9.0\Knife Sharpening Website.staticwebassets.runtime.json
+C:\Users\Lenovo\source\repos\Knife Sharpening Website\bin\Debug\net9.0\Knife Sharpening Website.staticwebassets.endpoints.json
+C:\Users\Lenovo\source\repos\Knife Sharpening Website\bin\Debug\net9.0\Knife Sharpening Website.exe
+C:\Users\Lenovo\source\repos\Knife Sharpening Website\bin\Debug\net9.0\Knife Sharpening Website.deps.json
+C:\Users\Lenovo\source\repos\Knife Sharpening Website\bin\Debug\net9.0\Knife Sharpening Website.runtimeconfig.json
+C:\Users\Lenovo\source\repos\Knife Sharpening Website\bin\Debug\net9.0\Knife Sharpening Website.dll
+C:\Users\Lenovo\source\repos\Knife Sharpening Website\bin\Debug\net9.0\Knife Sharpening Website.pdb
+C:\Users\Lenovo\source\repos\Knife Sharpening Website\obj\Debug\net9.0\Knife Sharpening Website.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\source\repos\Knife Sharpening Website\obj\Debug\net9.0\Knife Sharpening Website.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\Knife Sharpening Website\obj\Debug\net9.0\Knife Sharpening Website.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\Knife Sharpening Website\obj\Debug\net9.0\Knife Sharpening Website.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\Knife Sharpening Website\obj\Debug\net9.0\Knife Sharpening Website.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Lenovo\source\repos\Knife Sharpening Website\obj\Debug\net9.0\Knife Sharpening Website.RazorAssemblyInfo.cache
+C:\Users\Lenovo\source\repos\Knife Sharpening Website\obj\Debug\net9.0\Knife Sharpening Website.RazorAssemblyInfo.cs
+C:\Users\Lenovo\source\repos\Knife Sharpening Website\obj\Debug\net9.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Lenovo\source\repos\Knife Sharpening Website\obj\Debug\net9.0\scopedcss\bundle\Knife Sharpening Website.styles.css
+C:\Users\Lenovo\source\repos\Knife Sharpening Website\obj\Debug\net9.0\scopedcss\projectbundle\Knife Sharpening Website.bundle.scp.css
+C:\Users\Lenovo\source\repos\Knife Sharpening Website\obj\Debug\net9.0\compressed\8jc252fkia-b9sayid5wm.gz
+C:\Users\Lenovo\source\repos\Knife Sharpening Website\obj\Debug\net9.0\compressed\7s5j8ak9s1-61n19gt1b8.gz
+C:\Users\Lenovo\source\repos\Knife Sharpening Website\obj\Debug\net9.0\compressed\luipwutry8-xtxxf3hu2r.gz
+C:\Users\Lenovo\source\repos\Knife Sharpening Website\obj\Debug\net9.0\compressed\hvrcj1hpr2-bqjiyaj88i.gz
+C:\Users\Lenovo\source\repos\Knife Sharpening Website\obj\Debug\net9.0\compressed\wxlgxl1wm5-c2jlpeoesf.gz
+C:\Users\Lenovo\source\repos\Knife Sharpening Website\obj\Debug\net9.0\compressed\i3agkgjb9i-erw9l3u2r3.gz
+C:\Users\Lenovo\source\repos\Knife Sharpening Website\obj\Debug\net9.0\compressed\tr9c14981l-aexeepp0ev.gz
+C:\Users\Lenovo\source\repos\Knife Sharpening Website\obj\Debug\net9.0\compressed\2t2g1sc9h6-d7shbmvgxk.gz
+C:\Users\Lenovo\source\repos\Knife Sharpening Website\obj\Debug\net9.0\compressed\168fbgo9rw-ausgxo2sd3.gz
+C:\Users\Lenovo\source\repos\Knife Sharpening Website\obj\Debug\net9.0\compressed\eatiz2sk9w-k8d9w2qqmf.gz
+C:\Users\Lenovo\source\repos\Knife Sharpening Website\obj\Debug\net9.0\compressed\ici5sj63bh-cosvhxvwiu.gz
+C:\Users\Lenovo\source\repos\Knife Sharpening Website\obj\Debug\net9.0\compressed\84djkd48a0-ub07r2b239.gz
+C:\Users\Lenovo\source\repos\Knife Sharpening Website\obj\Debug\net9.0\compressed\h0q5uytqi4-fvhpjtyr6v.gz
+C:\Users\Lenovo\source\repos\Knife Sharpening Website\obj\Debug\net9.0\compressed\gct65pp8jo-b7pk76d08c.gz
+C:\Users\Lenovo\source\repos\Knife Sharpening Website\obj\Debug\net9.0\compressed\ij6646w3et-fsbi9cje9m.gz
+C:\Users\Lenovo\source\repos\Knife Sharpening Website\obj\Debug\net9.0\compressed\z3oyiei7bd-rzd6atqjts.gz
+C:\Users\Lenovo\source\repos\Knife Sharpening Website\obj\Debug\net9.0\compressed\jljavcv95z-ee0r1s7dh0.gz
+C:\Users\Lenovo\source\repos\Knife Sharpening Website\obj\Debug\net9.0\compressed\agwa6bkx1z-dxx9fxp4il.gz
+C:\Users\Lenovo\source\repos\Knife Sharpening Website\obj\Debug\net9.0\compressed\c9zbns2n5s-jd9uben2k1.gz
+C:\Users\Lenovo\source\repos\Knife Sharpening Website\obj\Debug\net9.0\compressed\ilbxgxu2j2-khv3u5hwcm.gz
+C:\Users\Lenovo\source\repos\Knife Sharpening Website\obj\Debug\net9.0\compressed\in52xv923k-r4e9w2rdcm.gz
+C:\Users\Lenovo\source\repos\Knife Sharpening Website\obj\Debug\net9.0\compressed\so79uai4qi-lcd1t2u6c8.gz
+C:\Users\Lenovo\source\repos\Knife Sharpening Website\obj\Debug\net9.0\compressed\4959e9a6w4-c2oey78nd0.gz
+C:\Users\Lenovo\source\repos\Knife Sharpening Website\obj\Debug\net9.0\compressed\fvoowo8gf5-tdbxkamptv.gz
+C:\Users\Lenovo\source\repos\Knife Sharpening Website\obj\Debug\net9.0\compressed\q0z460awkb-j5mq2jizvt.gz
+C:\Users\Lenovo\source\repos\Knife Sharpening Website\obj\Debug\net9.0\compressed\a6bl5so3e3-06098lyss8.gz
+C:\Users\Lenovo\source\repos\Knife Sharpening Website\obj\Debug\net9.0\compressed\kc61qepogm-nvvlpmu67g.gz
+C:\Users\Lenovo\source\repos\Knife Sharpening Website\obj\Debug\net9.0\compressed\equ6ajv1sg-s35ty4nyc5.gz
+C:\Users\Lenovo\source\repos\Knife Sharpening Website\obj\Debug\net9.0\compressed\z3u7kfanwr-pj5nd1wqec.gz
+C:\Users\Lenovo\source\repos\Knife Sharpening Website\obj\Debug\net9.0\compressed\7zogurcgi9-46ein0sx1k.gz
+C:\Users\Lenovo\source\repos\Knife Sharpening Website\obj\Debug\net9.0\compressed\7nelpq0p7l-v0zj4ognzu.gz
+C:\Users\Lenovo\source\repos\Knife Sharpening Website\obj\Debug\net9.0\compressed\tc5hk51tue-37tfw0ft22.gz
+C:\Users\Lenovo\source\repos\Knife Sharpening Website\obj\Debug\net9.0\compressed\5wcgdr1apz-hrwsygsryq.gz
+C:\Users\Lenovo\source\repos\Knife Sharpening Website\obj\Debug\net9.0\compressed\1xa8lks3zl-pk9g2wxc8p.gz
+C:\Users\Lenovo\source\repos\Knife Sharpening Website\obj\Debug\net9.0\compressed\pw8jw1yglb-ft3s53vfgj.gz
+C:\Users\Lenovo\source\repos\Knife Sharpening Website\obj\Debug\net9.0\compressed\txsf3bdxwo-6cfz1n2cew.gz
+C:\Users\Lenovo\source\repos\Knife Sharpening Website\obj\Debug\net9.0\compressed\hshro519es-6pdc2jztkx.gz
+C:\Users\Lenovo\source\repos\Knife Sharpening Website\obj\Debug\net9.0\compressed\vx70eb6bg5-493y06b0oq.gz
+C:\Users\Lenovo\source\repos\Knife Sharpening Website\obj\Debug\net9.0\compressed\ml54fnx216-iovd86k7lj.gz
+C:\Users\Lenovo\source\repos\Knife Sharpening Website\obj\Debug\net9.0\compressed\u9jtndx6f6-vr1egmr9el.gz
+C:\Users\Lenovo\source\repos\Knife Sharpening Website\obj\Debug\net9.0\compressed\r5zmer5p7o-kbrnm935zg.gz
+C:\Users\Lenovo\source\repos\Knife Sharpening Website\obj\Debug\net9.0\compressed\f6p7j8umfw-jj8uyg4cgr.gz
+C:\Users\Lenovo\source\repos\Knife Sharpening Website\obj\Debug\net9.0\compressed\5a58ajjhxs-y7v9cxd14o.gz
+C:\Users\Lenovo\source\repos\Knife Sharpening Website\obj\Debug\net9.0\compressed\ysj6cvzetp-notf2xhcfb.gz
+C:\Users\Lenovo\source\repos\Knife Sharpening Website\obj\Debug\net9.0\compressed\z9co0t1949-h1s4sie4z3.gz
+C:\Users\Lenovo\source\repos\Knife Sharpening Website\obj\Debug\net9.0\compressed\j9rekfj2l4-63fj8s7r0e.gz
+C:\Users\Lenovo\source\repos\Knife Sharpening Website\obj\Debug\net9.0\compressed\j86qbsr2cm-0j3bgjxly4.gz
+C:\Users\Lenovo\source\repos\Knife Sharpening Website\obj\Debug\net9.0\compressed\jwnefdu11w-47otxtyo56.gz
+C:\Users\Lenovo\source\repos\Knife Sharpening Website\obj\Debug\net9.0\compressed\l9pz8mxuff-4v8eqarkd7.gz
+C:\Users\Lenovo\source\repos\Knife Sharpening Website\obj\Debug\net9.0\compressed\5z6qhc8xks-356vix0kms.gz
+C:\Users\Lenovo\source\repos\Knife Sharpening Website\obj\Debug\net9.0\compressed\sxpymvv20u-83jwlth58m.gz
+C:\Users\Lenovo\source\repos\Knife Sharpening Website\obj\Debug\net9.0\compressed\c2il6jife2-mrlpezrjn3.gz
+C:\Users\Lenovo\source\repos\Knife Sharpening Website\obj\Debug\net9.0\compressed\om399uf2a9-lzl9nlhx6b.gz
+C:\Users\Lenovo\source\repos\Knife Sharpening Website\obj\Debug\net9.0\compressed\hk9llsju99-ag7o75518u.gz
+C:\Users\Lenovo\source\repos\Knife Sharpening Website\obj\Debug\net9.0\compressed\77hbvc96oj-x0q3zqp4vz.gz
+C:\Users\Lenovo\source\repos\Knife Sharpening Website\obj\Debug\net9.0\compressed\cyljgbgav0-0i3buxo5is.gz
+C:\Users\Lenovo\source\repos\Knife Sharpening Website\obj\Debug\net9.0\compressed\90qtfkq82v-o1o13a6vjx.gz
+C:\Users\Lenovo\source\repos\Knife Sharpening Website\obj\Debug\net9.0\compressed\prrkbgdf04-ttgo8qnofa.gz
+C:\Users\Lenovo\source\repos\Knife Sharpening Website\obj\Debug\net9.0\compressed\cpdgq1l6yl-2z0ns9nrw6.gz
+C:\Users\Lenovo\source\repos\Knife Sharpening Website\obj\Debug\net9.0\compressed\gowewrdy2x-muycvpuwrr.gz
+C:\Users\Lenovo\source\repos\Knife Sharpening Website\obj\Debug\net9.0\compressed\44mkv9wppi-87fc7y1x7t.gz
+C:\Users\Lenovo\source\repos\Knife Sharpening Website\obj\Debug\net9.0\compressed\ow3or5xkwt-mlv21k5csn.gz
+C:\Users\Lenovo\source\repos\Knife Sharpening Website\obj\Debug\net9.0\compressed\sis6u56q62-3wzwhyxwu8.gz
+C:\Users\Lenovo\source\repos\Knife Sharpening Website\obj\Debug\net9.0\compressed\c4ojsyarf0-3wzwhyxwu8.gz
+C:\Users\Lenovo\source\repos\Knife Sharpening Website\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\Lenovo\source\repos\Knife Sharpening Website\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\Lenovo\source\repos\Knife Sharpening Website\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\Lenovo\source\repos\Knife Sharpening Website\obj\Debug\net9.0\staticwebassets\msbuild.Knife Sharpening Website.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Lenovo\source\repos\Knife Sharpening Website\obj\Debug\net9.0\staticwebassets\msbuild.Knife Sharpening Website.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\Lenovo\source\repos\Knife Sharpening Website\obj\Debug\net9.0\staticwebassets\msbuild.build.Knife Sharpening Website.props
+C:\Users\Lenovo\source\repos\Knife Sharpening Website\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.Knife Sharpening Website.props
+C:\Users\Lenovo\source\repos\Knife Sharpening Website\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.Knife Sharpening Website.props
+C:\Users\Lenovo\source\repos\Knife Sharpening Website\obj\Debug\net9.0\staticwebassets.pack.json
+C:\Users\Lenovo\source\repos\Knife Sharpening Website\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+C:\Users\Lenovo\source\repos\Knife Sharpening Website\obj\Debug\net9.0\Knife Sharpening Website.dll
+C:\Users\Lenovo\source\repos\Knife Sharpening Website\obj\Debug\net9.0\refint\Knife Sharpening Website.dll
+C:\Users\Lenovo\source\repos\Knife Sharpening Website\obj\Debug\net9.0\Knife Sharpening Website.pdb
+C:\Users\Lenovo\source\repos\Knife Sharpening Website\obj\Debug\net9.0\Knife Sharpening Website.genruntimeconfig.cache
+C:\Users\Lenovo\source\repos\Knife Sharpening Website\obj\Debug\net9.0\ref\Knife Sharpening Website.dll

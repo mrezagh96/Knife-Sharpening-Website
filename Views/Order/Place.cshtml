@@ -1,0 +1,43 @@
+﻿@{
+    ViewData["Title"] = "Place an Order";
+}
+
+<h2>Place Your Knife Sharpening Order</h2>
+
+<div style="margin-top: 30px;">
+    <label>Number of Knives:</label>
+    <input type="number" id="knifeCount" value="1" min="1" style="width: 80px;" />
+</div>
+
+<div style="margin-top: 20px;">
+    <label>
+        <input type="checkbox" id="urgentService" />
+        خدمات فوری
+    </label>
+</div>
+
+<div style="margin-top: 20px;">
+    <strong>Total Price:</strong> <span id="totalPrice">50000</span> تومان
+</div>
+
+<div style="margin-top: 30px;">
+    <button class="btn btn-success">Make Order</button>
+</div>
+
+<script>
+    const basePrice = 50000;
+    const urgentPrice = 70000;
+
+    const knifeCountInput = document.getElementById('knifeCount');
+    const urgentCheckbox = document.getElementById('urgentService');
+    const totalPriceSpan = document.getElementById('totalPrice');
+
+    function updatePrice() {
+        const count = parseInt(knifeCountInput.value) || 0;
+        const pricePerKnife = urgentCheckbox.checked ? urgentPrice : basePrice;
+        totalPriceSpan.innerText = pricePerKnife * count;
+    }
+
+    knifeCountInput.addEventListener('input', updatePrice);
+    urgentCheckbox.addEventListener('change', updatePrice);
+</script>

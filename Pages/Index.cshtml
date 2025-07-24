@@ -1,0 +1,21 @@
+﻿/*
+Project: Knife Sharpening Website (MVP)
+Technology: ASP.NET Core MVC (C#)
+Updated for MVC (not Razor Pages)
+*/
+
+// MVC Version
+// 1. Create ASP.NET Core Web App (Model-View-Controller) in Visual Studio
+// 2. Use Views instead of Pages
+
+//-----------------------------------------
+// Views/Home/Index.cshtml (Home Page)
+//-----------------------------------------
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div style="display: flex; flex-direction: column; align-items: center; justify-content: center; height: 70vh;">
+    <a href="/Order/Place" class="btn btn-primary btn-lg m-3">Put Order</a>
+    <a href="/Tracking/Index" class="btn btn-secondary btn-lg m-3">Order Tracking</a>
+</div>
